@@ -1,0 +1,52 @@
+Just Words so i can test, test, test ....
+
+
+nter file contents here
+Automation Communication 
+Team, One of the goals Jason McGregor has set for 2016 is the advanced evolution of automation.  Why Automation?  As a strategic differentiator in the marketplace, the adoption of automation company-wide will help Virtustream remain competitive by continuing to improve delivery through greater efficiency.
+Automation means something different to many within Virtustream’s delivery – a macro in excel to more easily generate reports, a Perl script to automate a specific function, the use of tools such as vRealize orchestration to generate blueprints for self-service functions;  the spectrum of automation is broad.  
+What’s happening in this area today?
+The IMS Solutions team is leading a strategic automation project that will demonstrate the promise of automated services using products, tools, and/or enhanced processes as well as the reduction of incident volume and outages with proactive management and tools.
+The Global Competency team is collaborating with the IMS solutions team to develop specific automation to improve the support of our customers.  This is targeted at specific accounts, ensuring that anything implemented is all documented, supportable, and cost effective.
+The Global COE team has an initiative to become more efficient through automation  so that demands of future customers are easily met.
+The IMS Service Management team is focused on automating reporting, as well as identifying problem areas that would benefit from automation.
+The specific goals for automation this year include:
+–	Establishing vRO (vRealize Orchestration)as our Automation engine
+•	Created a local vRO instance
+•	Established vRO expertise
+•	Creating initial vRO Automation library
+
+–	Identifying common tasks across accounts suited for automation, as an example:
+•	Provisioning storage
+•	Creating and decommissioning VMs and Back-up clients
+•	Automated report creation and delivery
+•	Monitoring & Alerting Capability leveraging Nagios
+•	DPA Alerting Clean-up – Mitigating "Nuisance" Alerts into GCC
+–	Establishing multiple vRO pilots for delivery in 2016
+•	DPA activities
+•	Multiple proposals built for responses to RFPs
+•	MGL pilot for back-up automation
+–	Continuing the automation of billing processes
+–	Building automations for the CMS tools stack including automated health checks 
+–	Expanding SRM automation to include new technologies and customer requirements
+–	Working with Competency to catalog and assess automation scripts currently in use, including building a script library that will be available this summer for individuals to review and determine if there is anything that can be of use on an account
+–	Automating Service Management report to reduce manual effort
+–	CoE's Northstar goals are aligned to drive automation initiatives across all Virtustream accounts. COE leadership (Murale & Kelly Mills) are actively engaged with Global competency and IMS Solutions team to drive the initiative.
+
+
+How do you become involved?
+1.	You can request assistance with automation on your account via the Front Door Process 
+a.	 Any automation request should include a business case (estimated cost (hours) vs. the benefit (labor efficiency, increased revenue)).  Please work with your leader to determine if you have a viable business case prior to submission. The business case must be included for consideration.
+
+2.	If you have a script you would like reviewed and included in the script library, request via the Front Door Process.  
+a.	Any script you create must be reviewed by the MS Solutions team to ensure it will be included in the “official” catalog. This process ensures that your script does not show up as a security vulnerability when used.
+
+3.	If you would like to participate in creating automation in your area, please contact Doug Blum, Data Protection competency leader. Doug is the competency lead assigned to this effort and can be reached via email at Douglas.Blum@virtustream.com.
+
+Quarterly, there will be a governance meeting (for each region) to review all requests submitted, as well as the top automation projects underway.  The first governance meetings are scheduled for June 23rd (EMEA, US) and 24th (APJ).  If you have a request for automation, please submit your request by Tuesday June 21st, for consideration this quarter.
+
+Regards,
+Doug Blum, Dir. Data Protection Competency
+Liz Holland, Dir. Service Management
+Murale Narayanan, Dir. COE Competency Lead
+Patrick Snow, Dir. IMS Solutions
